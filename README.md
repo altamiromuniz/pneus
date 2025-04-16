@@ -1,2 +1,0 @@
-# pneus
-Informações sobre pneus
